@@ -33,7 +33,7 @@ How to Open and Run the Game in VS Code
 1.Install Visual Studio Code
 2. After installing VS Code,  Click File → Open Folder → select the folder that contains the Snake Game files
 3. Open index.html in VS Code (you can view it through browser extension)
-4. Play the game using arrow keys to move the snake up, down, left and right. The game ends whenthe snake hits the wall or collides with itself.
+4. Play the game using arrow keys to move the snake up, down, left and right. The game ends when the snake hits the wall or collides with itself.
 5. When the Game Over message appears, the final score is displayed. Clicking Try Again reloads the game.
 
 Screenshots of the game 
